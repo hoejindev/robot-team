@@ -1,4 +1,4 @@
 name = "robot-1"
-battery = 800
+battery = 85
 status = "대기"
 zone = "A"
